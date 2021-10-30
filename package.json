@@ -1,0 +1,20 @@
+{
+    "name": "nft-platform-control-panel",
+    "version": "1.0.0",
+    "description": "The purpose of this repo is to collect all necessary repos and provide a fetch and install shell-script to get started with development easy.",
+    "main": "index.js",
+    "scripts": {
+        "fetch": "./fetch-and-install.sh"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/magnuslundstrom/nft-platform-control-panel.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/magnuslundstrom/nft-platform-control-panel/issues"
+    },
+    "homepage": "https://github.com/magnuslundstrom/nft-platform-control-panel#readme"
+}
