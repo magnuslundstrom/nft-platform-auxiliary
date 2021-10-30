@@ -6,9 +6,9 @@ Learn more about the code as well as development environments within the repos t
 
 ## Getting started
 
-Run `yarn fetch` to automatically fetch all repos
+Run `yarn clone` to clone all
 
-Run `yarn fetch -i` to fetch and install
+Run `yarn clone -i` to clone all and install dependencies
 
 ## Web
 
@@ -24,7 +24,3 @@ Read more about the project here:
 
 Read more about the project here:
 [NFT-platform-smart-contracts -- No link yet]()
-
-```
-
-```

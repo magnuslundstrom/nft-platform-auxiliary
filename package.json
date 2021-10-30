@@ -4,7 +4,7 @@
     "description": "The purpose of this repo is to collect all necessary repos and provide a fetch and install shell-script to get started with development easy.",
     "main": "index.js",
     "scripts": {
-        "fetch": "./fetch-and-install.sh"
+        "clone": "./clone-and-install.sh"
     },
     "repository": {
         "type": "git",
