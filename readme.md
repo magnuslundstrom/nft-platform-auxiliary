@@ -1,4 +1,4 @@
-The purpose of this repo is to create a workspace where all the necessary repos will be included in a workspace.
+The purpose of this repo is to create a workspace where all the necessary repos will be included.
 
 ## Web
 
@@ -10,7 +10,7 @@ Run the project in development with:
 yarn dev
 ```
 
-[Link to repo]("https://github.com/magnuslundstrom/nft-platform-web")
+[Link to repo]("https://github.com/magnuslundstrom/nft-platform-web/")
 
 ## Api
 
@@ -22,4 +22,4 @@ Run the project in development with:
 docker-compose up
 ```
 
-[Link to repo]("https://github.com/magnuslundstrom/nft-platform-api")
+[Link to repo]("https://github.com/magnuslundstrom/nft-platform-api/")
