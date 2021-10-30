@@ -1,7 +1,7 @@
 {
-  "folders": [
-    { "name": "🟥  control-room", "path": "./" },
-    { "name": "🟦  web", "path": "../nft-platform-web" },
-    { "name": "🟩  api ", "path": "../nft-platform-backend" }
-  ]
+    "folders": [
+        { "name": "🟥  control-room", "path": "./" },
+        { "name": "🟦  web", "path": "../nft-platform-web" },
+        { "name": "🟩  api ", "path": "../nft-platform-api" }
+    ]
 }
