@@ -1,6 +1,9 @@
 #!/bin/bash
 
 ### TODO: Add more error handling ###
+
+CURRENT_PATH="$PWD"
+
 WEB_URL="https://github.com/magnuslundstrom/nft-platform-web"
 WEB_NAME="nft-platform-web"
 
@@ -13,7 +16,6 @@ API_NAME="nft-platform-api"
 REPO_URLS=("${WEB_URL}" "${API_URL}")
 REPO_NAMES=("${WEB_NAME}" "${API_NAME}")
 
-CURRENT_PATH="$PWD"
 IDX=0
 for REPO in ${REPO_URLS[*]}
 do
@@ -25,7 +27,5 @@ do
 	cd $CURRENT_PATH
 done
 
-
-echo "Successfully "
-
+echo "Successfully fetched the repos and installed the dependencies. Happy hacking!"
 exit 0
