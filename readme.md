@@ -23,3 +23,5 @@ docker-compose up
 ```
 
 [Link to repo]("https://github.com/magnuslundstrom/nft-platform-api/")
+
+[on the website](https://reactjs.org/)
