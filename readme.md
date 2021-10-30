@@ -1,25 +1,20 @@
-The purpose of this repo is to create a workspace where all the necessary repos will be included.
+# The NFT-platform-control-panel
+
+The purpose of this repo is to collect all necessary repos and provide a fetch and install shell-script to get started with development easy.
+
+Learn more about the code as well as development environments within the repos themselves.
 
 ## Web
 
-The web project is a NextJS project that contains all the code for the web frontend.
-
-Run the project in development with:
-
-```
-yarn dev
-```
-
-[Link to repo](https://github.com/magnuslundstrom/nft-platform-web/)
+Read more about the project here:
+[NFT-platform-web](https://github.com/magnuslundstrom/nft-platform-web/)
 
 ## Api
 
-The API project is a simple Express API that is used to primarily store the smart contract address of the projects listed on the NFT-platform.
+Read more about the project here:
+[NFT-platform-API](https://github.com/magnuslundstrom/nft-platform-api/)
 
-Run the project in development with:
+## Smart contracts
 
-```
-docker-compose up
-```
-
-[Link to repo](https://github.com/magnuslundstrom/nft-platform-api/)
+Read more about the project here:
+[NFT-platform-smart-contracts -- No link yet]()
