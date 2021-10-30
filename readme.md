@@ -10,7 +10,7 @@ Run the project in development with:
 yarn dev
 ```
 
-[Link to repo]("https://github.com/magnuslundstrom/nft-platform-web/")
+[Link to repo](https://github.com/magnuslundstrom/nft-platform-web/)
 
 ## Api
 
@@ -22,6 +22,4 @@ Run the project in development with:
 docker-compose up
 ```
 
-[Link to repo]("https://github.com/magnuslundstrom/nft-platform-api/")
-
-[on the website](https://reactjs.org/)
+[Link to repo](https://github.com/magnuslundstrom/nft-platform-api/)
