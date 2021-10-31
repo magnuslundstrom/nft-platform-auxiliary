@@ -1,8 +1,8 @@
 {
     "folders": [
         { "name": "🟥  control-room", "path": "./" },
-        { "name": "🟦  web", "path": "../nft-platform-web" },
         { "name": "🟩  api ", "path": "../nft-platform-api" },
-        { "name": "🟪  smart-contracts", "path": "../nft-platform-smart-contracts" }
+        { "name": "🟪  smart-contracts", "path": "../nft-platform-smart-contracts" },
+        { "name": "🟦  web", "path": "../nft-platform-web" }
     ]
 }
