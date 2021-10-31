@@ -6,9 +6,9 @@ Learn more about the code as well as development environments within the repos t
 
 ## Getting started
 
-Run `yarn clone` to clone all
+Run `yarn clone` or `./clone-and-install.sh` to clone all
 
-Run `yarn clone -i` to clone all and install dependencies
+Run `yarn clone -i` or `./clone-and-install.sh -i` to clone all and install dependencies
 
 ## Web
 
