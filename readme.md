@@ -23,4 +23,4 @@ Read more about the project here:
 ## Smart contracts
 
 Read more about the project here:
-[NFT-platform-smart-contracts -- No link yet]()
+[NFT-platform-smart-contracts](https://github.com/magnuslundstrom/nft-platform-smart-contracts/)
