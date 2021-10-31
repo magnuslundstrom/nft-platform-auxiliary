@@ -10,6 +10,12 @@ Run `yarn clone` or `./clone-and-install.sh` to clone all
 
 Run `yarn clone -i` or `./clone-and-install.sh -i` to clone all and install dependencies
 
+Open the entire workspace by running code(-insiders) nft-platform.code-workspace in your terminal
+
+## Develop
+
+Run `yarn develop` to get all the applications booted in develop mode
+
 ## Web
 
 Read more about the project here:
