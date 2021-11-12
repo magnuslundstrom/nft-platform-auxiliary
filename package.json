@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "clone": "./clone-and-install.sh",
-        "develop": "yarn develop"
+        "develop": "yarn develop",
+        "devChain": "ganache-cli --mnemonic \"$(<dev-mnemonic.txt)\""
     },
     "repository": {
         "type": "git",
