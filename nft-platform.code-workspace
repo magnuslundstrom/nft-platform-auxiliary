@@ -1,7 +1,6 @@
 {
     "folders": [
         { "name": "🟥  control-panel", "path": "./" },
-        { "name": "🟩  api ", "path": "../nft-platform-api" },
         { "name": "🟪  smart-contracts", "path": "../nft-platform-smart-contracts" },
         { "name": "🟦  web", "path": "../nft-platform-web" }
     ]
