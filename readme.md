@@ -38,6 +38,7 @@ In the smart contracts repo you will find:
 
 -   Code base
 -   Learn how to deploy
+-   Current deployed addresses
 -   Information on how to setup a development environment
 
 Read more about the project here:
