@@ -6,11 +6,11 @@ Learn more about the code as well as development environments within the repos t
 
 ## Environments
 
-| Env     | URL                                         |
-| ------- | ------------------------------------------- |
-| Dev     | https://nft-platform-web-develop.vercel.app |
-| Staging | https://nft-platform-web-staging.vercel.app |
-| Prod    | https://nft-platform-web.vercel.app         |
+| Env                         | URL                                         |
+| --------------------------- | ------------------------------------------- |
+| Dev (always latest changes) | https://nft-platform-web-develop.vercel.app |
+| Staging                     | https://nft-platform-web-staging.vercel.app |
+| Prod                        | https://nft-platform-web.vercel.app         |
 
 **Note: Prod doesn't work properly as there is no contracts deployed due to high gas fees**
 
