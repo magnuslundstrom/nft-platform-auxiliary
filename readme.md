@@ -53,3 +53,9 @@ In the web repo you will find:
 
 Read more about the project here:
 [NFT-platform-web](https://github.com/magnuslundstrom/nft-platform-web/)
+
+## Data-service (POC in the making)
+
+Read more about the project here:
+[NFT-platform-data-service](https://github.com/magnuslundstrom/nft-platform-data-service)
+

@@ -2,6 +2,7 @@
     "folders": [
         { "name": "🟥  control-panel", "path": "./" },
         { "name": "🟪  smart-contracts", "path": "../nft-platform-smart-contracts" },
-        { "name": "🟦  web", "path": "../nft-platform-web" }
+        { "name": "🟦  web", "path": "../nft-platform-web" },
+        { "name": "🟩 data-service (not included atm)", "path": "../nft-platform-data-service" }
     ]
 }
