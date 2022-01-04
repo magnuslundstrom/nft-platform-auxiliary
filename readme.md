@@ -19,7 +19,7 @@ Learn more about the code as well as development environments within the repos t
 | Network | URL                                                            | ChainID |
 | ------- | -------------------------------------------------------------- | ------- |
 | Local   | http://localhost:8545                                          | 1337    |
-| Develop | http://188.166.167.83                                          | 1337    |
+| Develop | http://188.166.167.63:8545                                     | 1337    |
 | Ropsten | wss://ropsten.infura.io/ws/v3/805b0e402a44472ba1ea1ed42e5d4514 | 3       |
 
 **Note: The Ropsten API will be disabled around february 2022 so don't rely on it afterwards**
